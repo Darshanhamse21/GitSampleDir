@@ -1,0 +1,6 @@
+This is version 1st file for git
+I'm changing in this file after commiting in git
+
+I'm not only changing this file I'm changing my life too.
+
+This is Third changes in this file.
